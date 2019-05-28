@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Test Website
+github:
+  is_project_page: false
