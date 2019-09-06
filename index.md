@@ -12,7 +12,7 @@ Hi, my name is Dennis and I am a Ph.D. student and research assistant at the Cha
 - Internet Measurements
 - Big Data Security and Privacy
 
-# publications
+# peer-reviewed publications
 
 ## 2019
 
@@ -28,15 +28,9 @@ Tobias Urban, **Dennis Tatang**, Martin Degeling, Thorsten Holz, Norbert Pohlman
 - Analyzing leakage of personal information by malware --
 Tobias Urban, **Dennis Tatang**, Thorsten Holz, Norbert Pohlmann --
 *Journal of Computer Security, 2019*
-- A Study of Newly Observed Hostnames and DNS Tunneling in the Wild --
-**Dennis Tatang**, Florian Quinkert, Nico Dolecki, Thorsten Holz -- 
-*Technical Report, arXiv:1902.08454, February 2019*
 
 ## 2018
 
-- The Un­wan­ted Sharing Eco­no­my: An Ana­ly­sis of Cook­ie Syn­cing and User Trans­pa­ren­cy under GDPR --
-To­bi­as Urban, **Den­nis Tatang**, Mar­tin De­ge­ling, Thors­ten Holz, Nor­bert Pohl­mann --
-*Tech­ni­cal Re­port, arXiv:1811.​08660, No­vem­ber 2018*
 - Towards Un­der­stan­ding Pri­va­cy Im­pli­ca­ti­ons of Ad­wa­re and Po­ten­ti­al­ly Un­wan­ted Pro­grams --
 To­bi­as Urban, **Den­nis Tatang**, Thors­ten Holz, Nor­bert Pohl­mann --
 *Eu­ropean Sym­po­si­um on Re­se­arch in Com­pu­ter Se­cu­ri­ty (ESO­RICS), Bar­ce­lo­na, Spain, Sep­tem­ber 2018 - **Best Paper Award***
@@ -49,15 +43,35 @@ Tho­mas Hup­pe­rich, **Den­nis Tatang**, Ni­co­lai Wilkop, Thors­ten Holz
 
 ## 2017
 
-- An Em­pi­ri­cal Study on Price Dif­fe­ren­tia­ti­on Based on Sys­tem Fin­ger­prints --
-Tho­mas Hup­pe­rich, **Den­nis Tatang**, Ni­co­lai Wilkop, Thors­ten Holz --
-*Tech­ni­cal Re­port, arXiv:1712.​03031, De­cem­ber 2017*
 - SDN-Guard: Pro­tec­ting SDN Con­trol­lers Against SDN Root­kits --
 **Den­nis Tatang**, Flo­ri­an Quin­kert, Joel Frank, Chris­ti­an Röpke, Thors­ten Holz --
 *IEEE Work­shop on Se­cu­ri­ty in NFV-SDN (SN-2017), Ber­lin, No­vem­ber 2017*
+
+# other publications
+
+## 2019
+
+- Cybersecurity Research: Challenges and Course of Action --
+secUnity - supporting the security community --
+*secUnity-Roadmap on Cybersecurity Research, February 2019*
+- A Study of Newly Observed Hostnames and DNS Tunneling in the Wild --
+**Dennis Tatang**, Florian Quinkert, Nico Dolecki, Thorsten Holz -- 
+*Technical Report, arXiv:1902.08454, February 2019*
+
+## 2018
+
+- The Un­wan­ted Sharing Eco­no­my: An Ana­ly­sis of Cook­ie Syn­cing and User Trans­pa­ren­cy under GDPR --
+To­bi­as Urban, **Den­nis Tatang**, Mar­tin De­ge­ling, Thors­ten Holz, Nor­bert Pohl­mann --
+*Tech­ni­cal Re­port, arXiv:1811.​08660, No­vem­ber 2018*
+
+## 2017
+
+- An Em­pi­ri­cal Study on Price Dif­fe­ren­tia­ti­on Based on Sys­tem Fin­ger­prints --
+Tho­mas Hup­pe­rich, **Den­nis Tatang**, Ni­co­lai Wilkop, Thors­ten Holz --
+*Tech­ni­cal Re­port, arXiv:1712.​03031, De­cem­ber 2017*
 
 ## 2016
 
 - Pos­ter: Au­to­ma­ted, Con­text-Sen­si­ti­ve Ana­ly­sis of iOS Ap­p­li­ca­ti­ons --
 **Den­nis Tatang** --
-*1st IEEE Eu­ropean Sym­po­si­um on Se­cu­ri­ty and Pri­va­cy (Euro S&P 2016), Saar­brü­cken, Ger­ma­ny*
+*IEEE Eu­ropean Sym­po­si­um on Se­cu­ri­ty and Pri­va­cy (Euro S&P 2016), Saar­brü­cken, Ger­ma­ny*
