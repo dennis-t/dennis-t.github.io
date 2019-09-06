@@ -2,12 +2,12 @@
 
 Hi, my name is Dennis. I am a Ph.D. student and research assistant at the Chair for Systems Security at the Ruhr University Bochum. 
 
-# Research
+# research
 - Network Security (e.g., DNS, NTP)
 - Internet Measurements
 - Big Data Security and Privacy
 
-# Publications
+# publications
 
 ## 2019
 
