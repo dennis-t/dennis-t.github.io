@@ -13,13 +13,13 @@ Hi, my name is Dennis and I am a Ph.D. student and research assistant at the Cha
 - Big Data Security and Privacy
 
 # theses
-- Doctoral Thesis (submitted Jan. 2020, defended Mar. 2020)
+- Doctoral Thesis (submitted Jan. 2020, defended Mar. 2020) --
 English: **Large-scale Measurements for Enhancing Network Security**
 
-- Master's Thesis
+- Master's Thesis --
 German: **Automatisierte kontextsensitive Analyse von iOS Apps**
 
-- Bachelor's Thesis
+- Bachelor's Thesis --
 German: **Entwicklung von TLS - Unterschiede der SSL/TLS Versionen und Fallbeispiele**
 
 # peer-reviewed publications
