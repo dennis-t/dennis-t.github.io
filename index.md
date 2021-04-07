@@ -12,7 +12,32 @@ Hi, my name is Dennis and I am a Ph.D. student and research assistant at the Cha
 - Internet Measurements
 - Big Data Security and Privacy
 
+# theses
+- Doctoral Thesis (submitted Jan. 2020, defended Mar. 2020)
+English: **Large-scale Measurements for Enhancing Network Security**
+
+- Master's Thesis
+German: **Automatisierte kontextsensitive Analyse von iOS Apps**
+
+- Bachelor's Thesis
+German: **Entwicklung von TLS - Unterschiede der SSL/TLS Versionen und Fallbeispiele**
+
 # peer-reviewed publications
+
+## 2021
+
+- Reining in the Web's Inconsistencies with Site Policy --
+Stefano Calzavara, Tobias Urban, **Dennis Tatang**, Marius Steffens, Ben Stock --
+*Network and Distributed System Security Symposium (NDSS), San Diego, California, USA, February 2021*
+
+## 2020
+
+- Plenty of Phish in the Sea: Analyzing Potential Pre-Attack Surfaces --
+Tobias Urban, Matteo Große-Kampmann, **Dennis Tatang**, Thorsten Holz, Norbert Pohlmann --
+*European Symposium on Research in Computer Security (ESORICS), Guildford, UK, September 2020*
+- Measuring the Impact of the GDPR on Data Sharing in Ad Networks --
+Tobias Urban, **Dennis Tatang**, Martin Degeling, Thorsten Holz, Norbert Pohlmann --
+*ACM Asia Conference on Computer & Communications Security (ASIACCS), Taipei, Taiwan, June 2020*
 
 ## 2019
 
@@ -60,18 +85,18 @@ secUnity - supporting the security community --
 
 ## 2018
 
-- The Un­wan­ted Sharing Eco­no­my: An Ana­ly­sis of Cook­ie Syn­cing and User Trans­pa­ren­cy under GDPR --
-To­bi­as Urban, **Den­nis Tatang**, Mar­tin De­ge­ling, Thors­ten Holz, Nor­bert Pohl­mann --
-*Tech­ni­cal Re­port, arXiv:1811.​08660, No­vem­ber 2018*
+- The Unwanted Sharing Economy: An Analysis of Cookie Syncing and User Transparency under GDPR --
+Tobias Urban, **Dennis Tatang**, Martin Degeling, Thorsten Holz, Norbert Pohlmann --
+*Technical Report, arXiv:1811.08660, November 2018*
 
 ## 2017
 
-- An Em­pi­ri­cal Study on Price Dif­fe­ren­tia­ti­on Based on Sys­tem Fin­ger­prints --
-Tho­mas Hup­pe­rich, **Den­nis Tatang**, Ni­co­lai Wilkop, Thors­ten Holz --
-*Tech­ni­cal Re­port, arXiv:1712.​03031, De­cem­ber 2017*
+- An Empirical Study on Price Differentiation Based on System Fingerprints --
+Thomas Hupperich, **Dennis Tatang**, Nicolai Wilkop, Thorsten Holz --
+*Technical Report, arXiv:1712.03031, December 2017*
 
 ## 2016
 
-- Pos­ter: Au­to­ma­ted, Con­text-Sen­si­ti­ve Ana­ly­sis of iOS Ap­p­li­ca­ti­ons --
-**Den­nis Tatang** --
-*IEEE Eu­ropean Sym­po­si­um on Se­cu­ri­ty and Pri­va­cy (Euro S&P 2016), Saar­brü­cken, Ger­ma­ny*
+- Poster: Automated, Context-Sensitive Analysis of iOS Applications --
+**Dennis Tatang** --
+*IEEE European Symposium on Security and Privacy (Euro S&P 2016), Saarbrücken, Germany*
