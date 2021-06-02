@@ -1,6 +1,6 @@
 # hello world
 
-Hi, my name is Dennis and I am a Ph.D. student and research assistant at the Chair for Systems Security at Ruhr University Bochum. 
+Hi, my name is Dennis and I am a CISO in public service at multi-university institutions. I have further experience in research (focus on network security). I did my PhD at the Chair for Systems Security at Ruhr University Bochum.
 
 ##### Follow updates on
 |[ResearchGate](https://www.researchgate.net/profile/Dennis_Tatang "Dennis Tatang on ResearchGate")|
@@ -26,6 +26,9 @@ German: **Entwicklung von TLS - Unterschiede der SSL/TLS Versionen und Fallbeisp
 
 ## 2021
 
+- Likes are not Likes *A Crowdworking Platform Analysis* --
+**Dennis Tatang**, Philip Kreißel, Michael Sehring, Florian Quinkert, Martin Degeling and Thorsten Holz --
+*International Workshop on Cyber Social Threats (CYSOC), co-located with ICWSM 2021, virtually, June 2021*
 - Reining in the Web's Inconsistencies with Site Policy --
 Stefano Calzavara, Tobias Urban, **Dennis Tatang**, Marius Steffens, Ben Stock --
 *Network and Distributed System Security Symposium (NDSS), San Diego, California, USA, February 2021*
