@@ -13,7 +13,7 @@ Hi, my name is Dennis and I am a CISO in public service at multi-university inst
 - Big Data Security and Privacy
 
 # theses
-- Doctoral Thesis (submitted Jan. 2020, defended Mar. 2020) --
+- Doctoral Thesis (submitted Jan. 2021, defended Mar. 2021) --
 English: **Large-scale Measurements for Enhancing Network Security**
 
 - Master's Thesis --
