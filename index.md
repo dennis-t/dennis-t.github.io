@@ -16,10 +16,10 @@ Hi, my name is Dennis and I am a CISO in public service at multi-university inst
 - Doctoral Thesis (submitted Jan. 2021, defended Mar. 2021) --
 English: **Large-scale Measurements for Enhancing Network Security**
 
-- Master's Thesis --
+- Master's Thesis (submitted Dec. 2015, defended Jan. 2016) --
 German: **Automatisierte kontextsensitive Analyse von iOS Apps**
 
-- Bachelor's Thesis --
+- Bachelor's Thesis (submitted Oct. 2013, defended Oct. 2013) --
 German: **Entwicklung von TLS - Unterschiede der SSL/TLS Versionen und Fallbeispiele**
 
 # peer-reviewed publications
