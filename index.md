@@ -29,7 +29,7 @@ German: **Entwicklung von TLS - Unterschiede der SSL/TLS Versionen und Fallbeisp
 - Digging Deeper: An Analysis of Domain Impersonation in the Lower DNS Hierarchy --
 Florian Quinkert, **Dennis Tatang**, Thorsten Holz --
 Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), Virtual, July 2021
--Extended Abstract: A First Large-scale Analysis on Usage of MTA-STS --
+- Extended Abstract: A First Large-scale Analysis on Usage of MTA-STS --
 **Dennis Tatang**, Robin Flume, Thorsten Holz --
 Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), Virtual, July 2021
 - Likes are not Likes *A Crowdworking Platform Analysis* --
